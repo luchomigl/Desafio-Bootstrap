@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.footerMio{
+    text-align: end;
+}
+
+.fondoCustom{
+    background-color: gainsboro;
+}
